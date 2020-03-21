@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://techblog-jintao.netlify.com/"
 title = "Docs Demo"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
